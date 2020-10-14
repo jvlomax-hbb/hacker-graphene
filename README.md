@@ -1,0 +1,1 @@
+This is an implementation of the tutorial at https://www.howtographql.com/graphql-python/1-getting-started/
